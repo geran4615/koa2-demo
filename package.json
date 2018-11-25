@@ -1,0 +1,22 @@
+{
+  "name": "koa2-demo",
+  "version": "1.0.0",
+  "description": "A Web application based on koa2-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geran4615/koa2-demo.git"
+  },
+  "author": "geran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geran4615/koa2-demo/issues"
+  },
+  "homepage": "https://github.com/geran4615/koa2-demo#readme",
+  "dependencies": {
+    "koa": "^2.6.2"
+  }
+}
