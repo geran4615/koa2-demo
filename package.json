@@ -2,7 +2,7 @@
   "name": "koa2-demo",
   "version": "1.0.0",
   "description": "A Web application based on koa2-demo",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,6 +19,7 @@
   "dependencies": {
     "koa": "^2.6.2",
     "koa-bodyparser": "^4.2.1",
-    "koa-router": "^7.4.0"
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0"
   }
 }
